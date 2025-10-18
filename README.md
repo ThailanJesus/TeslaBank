@@ -27,6 +27,8 @@ Durante o desenvolvimento do TeslaBank, foram praticados conceitos fundamentais 
 
 ---
 
-## 🧩 Preview do projeto
+## 📸 Preview
+![preview do site](assets/images/preview.png)
 
-![Preview do TeslaBank](assets/preview.png)
+## 🌐 Acesse o projeto
+👉 https://thailanjesus.github.io/TeslaBank/
