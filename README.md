@@ -29,4 +29,4 @@ Durante o desenvolvimento do TeslaBank, foram praticados conceitos fundamentais 
 
 ## 🧩 Preview do projeto
 
-![Preview do TeslaBank](assets/preview-teslabank.png)
+![Preview do TeslaBank](assets/preview.png)
