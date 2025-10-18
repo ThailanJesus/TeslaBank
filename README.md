@@ -9,9 +9,8 @@ O projeto foi desenvolvido com foco em **HTML**, **CSS** e **design limpo**, sim
 
 - **HTML5** — estrutura do site  
 - **CSS3** — estilização e layout responsivo  
-- **Normalize.css** — para garantir consistência entre navegadores  
-- **Bootstrap Icons** — ícones modernos e leves  
-- **Google Fonts (DM Sans & Inter)** — tipografia profissional  
+- **Bootstrap Icons** — ícones modernos e leves
+- **JavaScript** - animação do accordion
 
 ---
 
@@ -28,5 +27,6 @@ Durante o desenvolvimento do TeslaBank, foram praticados conceitos fundamentais 
 
 ---
 
-## 🧩 Estrutura do projeto
+## 🧩 Preview do projeto
 
+![Preview do TeslaBank](assets/preview-teslabank.png)
