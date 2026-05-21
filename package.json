@@ -1,0 +1,23 @@
+{
+  "name": "primary",
+  "version": "1.0.0",
+  "description": "O **TeslaBank** é uma landing page moderna e responsiva criada para representar um banco digital fictício.   O projeto foi desenvolvido com foco em **HTML**, **CSS** e **design limpo**, simulando um site institucional de fintech, com seções informativas e foco na experiência do usuário.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThailanJesus/TeslaBank.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThailanJesus/TeslaBank/issues"
+  },
+  "homepage": "https://github.com/ThailanJesus/TeslaBank#readme",
+  "dependencies": {
+    "@vercel/speed-insights": "^2.0.0"
+  }
+}
